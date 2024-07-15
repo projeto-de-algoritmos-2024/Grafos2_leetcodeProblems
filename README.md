@@ -19,7 +19,7 @@ Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetC
 [Difícil: ]()<br>
 ![](.)
 
-[Média: 1319 Number of Operations to Make Network Connected](https://leetcode.com/problems/path-with-minimum-effort/description/)<br>
+[Média: 1631 Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)<br>
 ![](.)
 
 [Média: ]()<br>
