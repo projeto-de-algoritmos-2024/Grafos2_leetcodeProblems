@@ -33,6 +33,5 @@ Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetC
 ## Link da Apresentação
 [Apresentação PA 17 - LeetCode Problems - Grafos 2](https://youtu.be/_f1Kq2slbX8)<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_f1Kq2slbX8?si=BY7TMH1W44IU21y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
