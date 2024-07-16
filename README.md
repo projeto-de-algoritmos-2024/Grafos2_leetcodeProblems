@@ -14,16 +14,16 @@ Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetC
 
 ## Screenshots
 [Difícil: 1489 Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)<br>
-![](.)
+![](./src/assets/Sub11.png)
 
 [Difícil: ]()<br>
-![](.)
+![](./src/assets/)
 
 [Média: 1631 Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)<br>
-![](.)
+![](./src/assets/Sub21.png)
 
 [Média: ]()<br>
-![](.)
+![](./src/assets/)
 
 ## Instalação 
 **Linguagem**: C++ e Python3  <br> 
@@ -31,6 +31,6 @@ Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetC
 **Pré-requisito**: compilador de C++ e Compilador de Python3.
 
 ## Link da Apresentação
-[Apresentação PA 17 - LeetCode Problems - Grafos 1](https://youtu.be/Sjyr6mqgj3o)<br>
+[Apresentação PA 17 - LeetCode Problems - Grafos 2]()<br>
 
 
